@@ -1,0 +1,9 @@
+Big Data Account Information
+Account Number  Amount  W/D Transaction Code
+23 441.86 D AC64
+77 933.29 W AC176
+27 321.49 D AC77
+31 243.17 D AC180
+78 510.32 W AC191
+87 153.08 D AC164
+29 735.71 W AC75

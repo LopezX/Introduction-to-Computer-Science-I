@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637616161 source:c:\users\xslop\onedrive\desktop\intro to comp sci programs\program28\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<iomanip>
+

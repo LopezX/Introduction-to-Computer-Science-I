@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1637198245 source:c:\users\xslop\onedrive\desktop\intro to comp sci programs\program26\line.cpp
+	"Line.h"
+
+1636935966 c:\users\xslop\onedrive\desktop\intro to comp sci programs\program26\line.h
+	<ostream>
+	<iostream>
+	"Point.h"
+
+1637197636 c:\users\xslop\onedrive\desktop\intro to comp sci programs\program26\point.h
+	<ostream>
+	<cmath>
+
+1637197640 source:c:\users\xslop\onedrive\desktop\intro to comp sci programs\program26\point.cpp
+	"Point.h"
+
+1637199319 source:c:\users\xslop\onedrive\desktop\intro to comp sci programs\program26\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Line.h"
+
