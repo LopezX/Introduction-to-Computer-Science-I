@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635998301 source:c:\users\xslop\onedrive\desktop\program21\main.cpp
+	<iostream>
+	"Point.h"
+
+1635997130 c:\users\xslop\onedrive\desktop\program21\point.h
+	<ostream>
+	<cmath>
+
+1635998708 source:c:\users\xslop\onedrive\desktop\program21\point.cpp
+	"Point.h"
+

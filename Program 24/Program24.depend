@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636760324 source:c:\users\xslop\onedrive\desktop\intro to comp sci programs\program24\matrix.cpp
+	"matrix.h"
+
+1636758082 c:\users\xslop\onedrive\desktop\intro to comp sci programs\program24\matrix.h
+	<ostream>
+	<iomanip>
+	<cmath>
+
+1636760455 source:c:\users\xslop\onedrive\desktop\intro to comp sci programs\program24\main.cpp
+	<iostream>
+	"matrix.h"
+

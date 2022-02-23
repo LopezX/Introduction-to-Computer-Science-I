@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1636161852 source:c:\users\xslop\onedrive\desktop\program22\sphere.cpp
+	"Sphere.h"
+
+1636162990 c:\users\xslop\onedrive\desktop\program22\sphere.h
+	<ostream>
+	<cmath>
+
+1636162930 source:c:\users\xslop\onedrive\desktop\program22\main.cpp
+	<iostream>
+	<iomanip>
+	"Sphere.h"
+
