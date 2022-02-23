@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1634747638 source:c:\users\xslop\onedrive\desktop\program18\main.cpp
+	<iostream>
+	"Cstring.h"
+
+1634747601 source:c:\users\xslop\onedrive\desktop\program18\cstring.cpp
+	"Cstring.h"
+
+1634747637 c:\users\xslop\onedrive\desktop\program18\cstring.h
+	<iostream>
+

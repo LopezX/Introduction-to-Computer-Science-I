@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1635091370 source:c:\users\xslop\onedrive\desktop\program19\main.cpp
+	<iostream>
+	"arrayCount.h"
+
+1635091743 c:\users\xslop\onedrive\desktop\program19\arraycount.h
+	<iostream>
+	<vector>
+
+1635091412 source:c:\users\xslop\onedrive\desktop\program19\arraycount.cpp
+	"arrayCount.h"
+
